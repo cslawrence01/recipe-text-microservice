@@ -1,0 +1,1 @@
+Recipe Text Communication Contract

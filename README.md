@@ -1,10 +1,10 @@
 # **Recipe Text Microservice**
 
-This microservice will be ZeroMQ reply/request pattern for communication
+This microservice will use the ZeroMQ reply/request pattern for communication
 
 This service will take in as input a byte string of a recipe and save it as a text file.
 The service will also return a success message to the caller after the text
-file has been created as well
+file has been created.
 
 ## **How to programmatically request data:**
 
@@ -13,13 +13,13 @@ port 6666.
 
 A byte string should be formatted in the following way:
 
-b<recipe name>:<the rest of the recipe string>
+b\<recipe name\>\:\<the rest of the recipe string\>
 
 The "b" above is to indicate a byte string. Also, make sure to enclose the string in double quotes
 
 Please ensure the recipe name is immediately proceeded by a colon. The string
 before the colon will be taken as the recipe title and this title will
-be the name of the text file, as follows, <recipe name>.txt
+be the name of the text file. For example, \<recipe name\>.txt
 
 Please request data from the service by the following call:
 

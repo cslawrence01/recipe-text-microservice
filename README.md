@@ -39,6 +39,10 @@ that was sent in as a request to the service.
 
 UML Diagram:
 
+<p align="center">
+    <img src="https://lucid.app/documents/embedded/7c95e6cb-af9b-4822-900b-c34e09b52690" id="ziqAgqdzjy3O" alt="UML diagram">
+</p>>
+
 <div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/7c95e6cb-af9b-4822-900b-c34e09b52690" id="ziqAgqdzjy3O"></iframe></div>
 
 

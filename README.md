@@ -15,7 +15,7 @@ port 6666.
 
 A byte string should be formatted in the following way:
 
-\"b\<recipe name\>\:\<the rest of the recipe string\>\"
+b\"\<recipe name\>\:\<the rest of the recipe string\>\"
 
 Please ensure the recipe name is immediately proceeded by a colon. The string
 before the colon will be taken as the recipe title and this title will

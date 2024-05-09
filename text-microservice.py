@@ -29,7 +29,6 @@ while True:
     #  Send reply back to client
     socket.send(b"file saved successfully")
 
-    break
 
 
 

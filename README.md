@@ -6,6 +6,8 @@ This service will take in as input a byte string of a recipe and save it as a te
 The service will also return a success message to the caller after the text
 file has been created.
 
+If you wish to use this microservice, please download the text-microservice.py file.
+
 ## **How to programmatically request data:**
 
 To request data from this service please make sure you initiate a connection to

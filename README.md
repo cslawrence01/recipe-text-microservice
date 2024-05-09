@@ -39,6 +39,10 @@ that was sent in as a request to the service.
 
 UML Diagram:
 
+<p align="center">
+    <img src="./diagram.png">
+</p>
+
 [UML diagram](./diagram.png)
 
 
